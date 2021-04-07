@@ -4,5 +4,6 @@ class Shoe
     end
 
     def brand
+      @brand end
 
 end
