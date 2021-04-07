@@ -30,4 +30,6 @@ class Shoe
     def material=(material)
       @material = material
     end
+
+    
 end
