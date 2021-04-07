@@ -1,5 +1,5 @@
 class Shoe
-  attr_accessor
+  attr_accessor :color, :size
   attr_reader
 
   def initialize(brand)
