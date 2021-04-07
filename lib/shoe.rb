@@ -1,5 +1,6 @@
 class Shoe
-    def initialize
+    def initialize()
+    end
 
 
 end
