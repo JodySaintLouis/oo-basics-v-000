@@ -1,24 +1,19 @@
-# Make your shoe class here!
-class Book
-
-  def initialize(title)
-    @title = title
+class Shoe
+  def initialize(brand)
+    @brand=brand
   end
 
-  def title
-    @title
+  def brand
+    @brand
   end
 
-  def author=(author)
-    @author = author
+  def color=(color)
+    @color = color
   end
 
-  def author
-    @author
+  def color
+    @color
   end
 
-  def page_count=(num)
-    @page_count = num
-  end
 
 end
