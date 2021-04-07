@@ -1,1 +1,1 @@
-class shoe
+class Shoe
