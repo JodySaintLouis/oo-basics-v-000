@@ -32,4 +32,5 @@ class Shoe
     end
 
     def condition
+      edn
 end
