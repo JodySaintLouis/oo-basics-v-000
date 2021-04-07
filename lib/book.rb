@@ -1,5 +1,5 @@
 class Book
-  attr_accessor 
+  attr_accessor
   attr_reader
 
 
