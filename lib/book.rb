@@ -17,5 +17,6 @@ class Book
   end
 
   def page_count
+  end
 
 end
